@@ -1,4 +1,4 @@
-interface IExperience {
+export interface IExperience {
   title: string;
   company: string;
   startDate: Date;

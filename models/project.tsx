@@ -1,4 +1,4 @@
-interface IProject {
+export interface IProject {
   title: string;
   company: string;
   startDate: Date;

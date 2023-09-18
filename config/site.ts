@@ -1,3 +1,6 @@
+import { IExperience } from "@/models/experience";
+import { IProject } from "@/models/project";
+
 export type SiteConfig = typeof siteConfig;
 
 const enum Skills {

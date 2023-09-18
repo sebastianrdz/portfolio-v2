@@ -1,14 +1,9 @@
 import { Icons } from "./assets/icons";
 import { Button } from "./ui/button";
-import {
-  Sheet,
-  SheetTrigger,
-  SheetContent,
-  SheetHeader,
-  SheetTitle,
-  SheetDescription,
-} from "./ui/sheet";
+import { SheetContent, SheetHeader, SheetTitle } from "./ui/sheet";
 import { dateToStringFormat } from "@/lib/utils";
+import { IExperience } from "@/models/experience";
+import { IProject } from "@/models/project";
 import Link from "next/link";
 
 interface DetailsDrawerProps {

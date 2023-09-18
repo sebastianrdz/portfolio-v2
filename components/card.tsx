@@ -3,6 +3,8 @@
 import DetailsDrawer from "@/components/details-drawer";
 import { SheetTrigger } from "@/components/ui/sheet";
 import { dateToStringFormat } from "@/lib/utils";
+import { IExperience } from "@/models/experience";
+import { IProject } from "@/models/project";
 import { useState } from "react";
 
 interface CardProps {
