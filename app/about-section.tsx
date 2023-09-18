@@ -17,7 +17,7 @@ const AboutSection = () => {
         collaborate with cross-functional teams and deliver high-quality results
         on time and within budget. As I continue to grow and develop in my
         career, I am excited to explore new technologies and take on new
-        challenges. Let's connect and see how I can help bring your web
+        challenges. Let&aposs connect and see how I can help bring your web
         development projects to life!
       </p>
     </section>
